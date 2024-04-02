@@ -2,9 +2,9 @@
 🔍 Problem Statement:
 CodeX, a German beverage company, recently introduced its energy drink in 10 Indian cities, aiming to establish a significant presence in the market. Now, their Marketing team seeks to harness insights from a survey conducted among 10k respondents to drive brand awareness, increase market share, and inform product development strategies.
 
-📊 Dashboard Link: Dashboard Link(https://app.powerbi.com/view?r=eyJrIjoiZTVlZmYwMDAtNDk4ZS00MTkyLWJlNDktODQ3ZGVjMzM0ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)
-🔗 LinkedIn: LinkedIn Link(https://www.linkedin.com/in/israrmohammed/)
-📁 Portfolio Link: Portfolio Link(https://codebasics.io/portfolio/ISRAR-MOHAMMED)
+📊 Dashboard Link: [[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTVlZmYwMDAtNDk4ZS00MTkyLWJlNDktODQ3ZGVjMzM0ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)]
+🔗 LinkedIn: [[LinkedIn Link](https://www.linkedin.com/in/israrmohammed/)]
+📁 Portfolio Link: [[Portfolio Link](https://codebasics.io/portfolio/ISRAR-MOHAMMED)]
 
 🎯 Questions for insight :
 Answers are cover in the dashboard link(https://app.powerbi.com/view?r=eyJrIjoiZTVlZmYwMDAtNDk4ZS00MTkyLWJlNDktODQ3ZGVjMzM0ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)
