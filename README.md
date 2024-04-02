@@ -7,7 +7,7 @@ CodeX, a German beverage company, recently introduced its energy drink in 10 Ind
 📁 Portfolio Link: [[Portfolio Link](https://codebasics.io/portfolio/ISRAR-MOHAMMED)]
 
 🎯 Questions for insight :
-Answers are cover in the dashboard link(https://app.powerbi.com/view?r=eyJrIjoiZTVlZmYwMDAtNDk4ZS00MTkyLWJlNDktODQ3ZGVjMzM0ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)
+Answers are cover in the [[dashboard link](https://app.powerbi.com/view?r=eyJrIjoiZTVlZmYwMDAtNDk4ZS00MTkyLWJlNDktODQ3ZGVjMzM0ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)]
 Demographic Insights:
 
 Who shows a higher preference for energy drinks: males, females, or non-binary individuals?
